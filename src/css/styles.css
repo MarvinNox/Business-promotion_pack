@@ -9,10 +9,16 @@
 @import url('./base.css');
 @import url('./container.css');
 @import url('./animations.css');
-
 /* Sections style */
 @import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
-@import url('./back-link.css');
+@import url('./index/index_collab.css');
+@import url('./index/index_customer.css');
+@import url('./index/index_feature.css');
+@import url('./index/index_feed.css');
+@import url('./index/index_feedback.css');
+@import url('./index/index_hero.css');
+@import url('./index/index_management.css');
+@import url('./index/index_pricing.css');
+@import url('./index/index_promo.css');
+@import url('./index/index_stuff.css');
 @import url('./footer.css');
