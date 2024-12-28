@@ -1,0 +1,36 @@
+/* #region Promo */
+.promo-container {
+  max-width: 968px;
+  display: flex;
+  border-radius: 32px;
+  background: #02897a;
+  margin: 0 auto;
+  align-items: center;
+}
+.promo-box {
+  display: flex;
+  flex-direction: column;
+  padding-left: 51px;
+}
+.promo-title {
+  margin-top: 49px;
+  width: 510px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.514;
+  color: #fff;
+  margin-bottom: 46px;
+}
+.promo-bttn {
+  font-size: 20px;
+  color: #02897a;
+  background: #fff;
+  border-radius: 8px;
+  padding: 10px 34px;
+  max-width: 150px;
+  margin-bottom: 56px;
+}
+.promo-img {
+  height: inherit;
+}
+/* #endregion Promo */

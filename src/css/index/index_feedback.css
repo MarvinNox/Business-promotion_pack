@@ -1,0 +1,62 @@
+/* #region Feedback */
+.feedback-title {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.feedback-txt {
+  text-align: center;
+  width: 537px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.feedback-list {
+  display: flex;
+  justify-content: space-between;
+}
+.feedback-item {
+  width: calc((100% - 64px * 2) / 3);
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  padding: 28px 26px;
+
+  background-color: #fff;
+}
+.feedback-card-txt {
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  color: #737373;
+  margin: 16px 0;
+}
+.feedback-box {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.feedback-box-avatar {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #bdbdbd;
+  background-color: transparent;
+  object-fit: cover;
+  overflow: hidden;
+}
+.feedback-card-names {
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  color: #02897a;
+}
+.feedback-card-names-part {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.71429;
+  letter-spacing: 0.01em;
+  color: #252b42;
+}
+.feedback-name-box {
+  display: flex;
+  flex-direction: column;
+}
+/* #endregion Feedback */

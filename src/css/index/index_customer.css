@@ -1,0 +1,29 @@
+/* #region Support Customer */
+.support-box {
+  width: 450px;
+}
+.support-box .secondary-title {
+  width: 304px;
+}
+.support-list-item {
+  display: flex;
+  align-items: center;
+}
+.support-icon-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+  border: 2.92px solid #fff;
+  border-radius: 14px;
+  min-width: 35px;
+  height: 35px;
+  background: #f90;
+}
+.support-list-item:nth-child(2) .support-icon-box {
+  background: #f03e3d;
+}
+.support-list-item:last-child .support-icon-box {
+  background: #4d8dff;
+}
+/* #endregion Support Customer */
