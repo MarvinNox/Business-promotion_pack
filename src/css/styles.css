@@ -22,3 +22,8 @@
 @import url('./index/index_promo.css');
 @import url('./index/index_stuff.css');
 @import url('./footer.css');
+/* customers page  */
+@import url('./customer/index_clients-section.css');
+@import url('./customer/index_offers-section.css');
+@import url('./customer/index_product-features.css');
+@import url('./customer/index_work-of-products.css');
