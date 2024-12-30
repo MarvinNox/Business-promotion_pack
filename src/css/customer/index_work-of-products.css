@@ -1,0 +1,34 @@
+/* Works of product */
+.how_works-box {
+    width: 438px;
+}
+
+.how_works-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+    gap: 88px;
+    max-width: 1026px;
+}
+
+.how_works-item:last-child {
+    margin-bottom: 75px;
+}
+
+.how_works-item-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.how_works-item-sub_title {
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+.how_works-item-txt {
+    line-height: 1.75;
+}
