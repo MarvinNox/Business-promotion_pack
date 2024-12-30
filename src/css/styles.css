@@ -9,7 +9,7 @@
 @import url('./base.css');
 @import url('./container.css');
 @import url('./animations.css');
-/* Sections style */
+/* Index Page Style */
 @import url('./header.css');
 @import url('./index/index_collab.css');
 @import url('./index/index_customer.css');
@@ -22,7 +22,8 @@
 @import url('./index/index_promo.css');
 @import url('./index/index_stuff.css');
 @import url('./footer.css');
-/* customers page  */
+/* Pricing Page Styles*/
+/* Customers Page Styles */
 @import url('./customer/index_clients-section.css');
 @import url('./customer/index_offers-section.css');
 @import url('./customer/index_product-features.css');
