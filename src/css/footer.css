@@ -34,7 +34,7 @@
 }
 .footer-legal {
   margin-right: 83px;
-  min-width: 131px;
+  min-width: 132px;
 }
 .footer-subscribe {
   display: flex;
@@ -66,11 +66,12 @@
   border: 1px solid #02897a;
 }
 .footer-form-bttn {
-  padding: 10px 15px;
+  padding: 10px 14px;
   color: #fff;
   font-weight: 700;
   background: #02897a;
-  max-width: 131px;
+  max-width: 134px;
+  max-height: 40px;
 }
 .footer-form-icon {
   position: absolute;

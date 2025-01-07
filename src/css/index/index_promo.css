@@ -26,8 +26,9 @@
   color: #02897a;
   background: #fff;
   border-radius: 8px;
-  padding: 10px 34px;
-  max-width: 150px;
+  padding: 10px 32px;
+  width: 150px;
+  height: 50px;
   margin-bottom: 56px;
 }
 .promo-img {

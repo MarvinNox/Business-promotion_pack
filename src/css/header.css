@@ -33,15 +33,19 @@
   gap: 21px;
 }
 .header-bttn {
-  padding: 10px 24px;
+  padding: 10px 22px;
 }
 .sign-in-bttn {
   border: 1px solid #bcd0e5;
   color: #173a56;
   background-color: transparent;
+  max-height: 42px;
+  max-width: 106px;
 }
 .sign-up-bttn {
   background: #02897a;
   color: #fff;
+  max-width: 114px;
+  max-height: 42px;
 }
 /* #endregion header */
