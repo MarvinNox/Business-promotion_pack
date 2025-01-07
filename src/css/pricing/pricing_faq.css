@@ -25,10 +25,10 @@ details > summary {
   font-size: 18px;
 }
 details summary:before {
-  content: url('../images/pricing/plus_circle.png');
+  content: url('/img/pricing/plus_circle.png');
   margin-right: 16px;
 }
 details[open] summary:before {
-  content: url('../images/pricing/minus_circle.png');
+  content: url('/img/pricing/minus_circle.png');
 }
 /* #endregion FAQ */
