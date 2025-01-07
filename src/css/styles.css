@@ -23,8 +23,14 @@
 @import url('./index/index_stuff.css');
 @import url('./footer.css');
 /* Pricing Page Styles*/
+@import url('./pricing/pricing_hero.css');
+@import url('./pricing/pricing_enterprice.css');
+@import url('./pricing/pricing_product.css');
+@import url('./pricing/pricing_faq.css');
 /* Customers Page Styles */
 @import url('./customer/index_clients-section.css');
 @import url('./customer/index_offers-section.css');
 @import url('./customer/index_product-features.css');
 @import url('./customer/index_work-of-products.css');
+/* Resources page */
+@import url('./resources/resources_main.css');

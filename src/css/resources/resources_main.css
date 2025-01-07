@@ -1,0 +1,319 @@
+/* resources.page */
+.res-body {
+  background-color: #1f2e35;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #ffffff;
+}
+.res-body .logo {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 0.93;
+  color: #fff;
+}
+.res-body .sign-in-bttn {
+  color: #fff;
+}
+.res_hero-wrapp {
+  padding: 100px 0 50px;
+}
+.greeny {
+  color: #02897a;
+}
+.res_hero-box {
+  width: 535px;
+}
+.res-title {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1.49;
+  letter-spacing: -0.03em;
+  margin-bottom: 24px;
+}
+.res_hero-txt {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.6;
+  letter-spacing: -0.03em;
+  margin-bottom: 24px;
+}
+.res_hero-input-box {
+  position: relative;
+}
+.res_hero-input {
+  border: 1px solid #eaeaea;
+  border-radius: 100px;
+  width: 469px;
+  height: 66px;
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: #fff;
+  padding-left: 27px;
+}
+.res_hero-input::placeholder {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+.res_hero-bttn {
+  position: absolute;
+  top: 8px;
+  right: 74px;
+  border-radius: 100px;
+  padding: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0;
+  background: #02897a;
+  min-width: 117px;
+  min-height: 50px;
+  color: #fff;
+}
+.res_hero-bttn:hover {
+  transform: scale(1.02);
+}
+.res_hero-social-box {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.res_hero-social-txt {
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 130px;
+}
+.hero-image {
+  border-radius: 16px;
+  width: 576px;
+  height: 397px;
+  background-image: url('/img/resources/hero-img.jpg');
+}
+.res_hero-form {
+  margin-bottom: 40px;
+}
+.res_hero_soc-photo {
+  position: absolute;
+  z-index: 1;
+}
+.res_hero_soc-photo_sec {
+  position: absolute;
+  left: 25px;
+  z-index: 2;
+}
+.res_hero_soc-photo_third {
+  position: absolute;
+  left: 60px;
+  z-index: 3;
+}
+.res_sec_wrapper {
+  padding: 50px 0;
+}
+.res_sec-title {
+  font-weight: 400;
+  font-size: 34px;
+  margin-bottom: 8px;
+}
+.res_sec-txt {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.625;
+  margin-bottom: 8px;
+}
+.res_sec_wrapper .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.res_sec-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 32px;
+}
+.res_sec-item {
+  width: calc((100% - 64px) / 3);
+  background-color: #fff;
+  border: 1px solid #dedede;
+  border-radius: 8px;
+}
+.res_sec-item:hover {
+  box-shadow: 10px 10px 34px 5px rgba(255, 255, 255, 0.25);
+}
+.res_sec-item img {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.res_sec-list-title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #22343d;
+  margin-bottom: 12px;
+}
+.res_sec-list-txt {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.67;
+  color: #22343d;
+}
+.res_sec-card {
+  padding: 22px 24px 40px 30px;
+}
+.res_sec-more-box {
+  display: flex;
+  margin-top: 32px;
+  transition: transform 250ms ease-in-out;
+}
+.res_sec-more-box:hover {
+  transform: translateX(5px);
+}
+.res_sec-more-box:active {
+  transform: translatey(1px);
+}
+.res_sec-more-txt {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.44;
+  margin-right: 5px;
+}
+.strong-txt {
+  font-weight: 800;
+}
+/* Contact Us */
+.res_contacts-wrapper {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+.res_contacts-wrapper .res_sec-title {
+  line-height: 1.67647;
+  letter-spacing: 0.01em;
+  margin-bottom: 17px;
+}
+.res_contacts-container {
+  max-width: 871px;
+  padding-right: 16px;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+.res_contacts-txt {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.55556;
+  letter-spacing: 0.01em;
+  text-align: center;
+  margin-bottom: 65px;
+}
+.res_contacts-map-box {
+  margin-top: 56px;
+  margin-bottom: 50px;
+  border-radius: 16px;
+  width: 871px;
+  height: 323px;
+  background-image: url('/img/resources/map.jpg');
+}
+.res_form-box {
+  border: 1px solid #464646;
+  border-radius: 20px;
+  padding: 52px 50px;
+  width: 868px;
+  height: 670px;
+  background: #22343d;
+}
+.res_form-title {
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  line-height: 1.375;
+  letter-spacing: 0em;
+  margin-bottom: 45px;
+}
+.res_form-input {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.06667;
+  letter-spacing: 0.01em;
+  color: #22343d;
+  padding: 19px 20px;
+  background: #f5f5f5;
+  border: 1px solid #e8e8e8;
+  border-radius: 39px;
+  width: 768px;
+  height: 54px;
+  margin-bottom: 45px;
+  outline: none;
+}
+.res_form-input:focus {
+  color: #02897a;
+  border: 1px solid #02897a;
+}
+.res_form-input::placeholder {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.06667;
+  letter-spacing: 0.01em;
+  color: #22343d;
+}
+.res_form-input:focus::placeholder {
+  color: #02897a;
+}
+.res_form-message {
+  display: block;
+  border: 1px solid #e8e8e8;
+  padding: 23px 20px;
+  width: 768px;
+  height: 193px;
+  background: #f5f5f5;
+  resize: none;
+  outline: none;
+  scrollbar-width: thin;
+  margin-bottom: 45px;
+}
+.res_form-message::placeholder {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.06667;
+  letter-spacing: 0.01em;
+  color: #22343d;
+}
+.res_form-message:focus {
+  color: #02897a;
+  border: 1px solid #02897a;
+}
+.res_form-message:focus::placeholder {
+  color: #02897a;
+}
+.res_form_bttn {
+  border-radius: 35px;
+  padding: 18px 38px;
+  width: 145px;
+  height: 52px;
+  background: #02897a;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  color: #fff;
+}
+.res_contacts-wrapper .footer-social-icon-box {
+  width: 50px;
+  height: 50px;
+}
+.res_contacts-wrapper .footer-social-list {
+  gap: 22px;
+}
+.res-body .footer-form {
+  border: 1px solid #bcd0e5;
+  border-radius: 4px;
+  background: #fff;
+}

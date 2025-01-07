@@ -1,0 +1,34 @@
+/* #region FAQ */
+.wrapper-faq {
+  padding: 100px 0 50px;
+}
+.faq-list {
+  min-width: 920px;
+}
+.faq-list-line {
+  border: 1px solid #e7e7e7;
+  width: 100%;
+  height: 0;
+  margin-top: 22px;
+  margin-bottom: 16px;
+}
+.faq-det-list {
+  max-width: 920px;
+}
+details > summary {
+  list-style: none;
+}
+.faq-summ-txt {
+  display: flex;
+  align-items: flex-start;
+  font-weight: 500;
+  font-size: 18px;
+}
+details summary:before {
+  content: url('../images/pricing/plus_circle.png');
+  margin-right: 16px;
+}
+details[open] summary:before {
+  content: url('../images/pricing/minus_circle.png');
+}
+/* #endregion FAQ */

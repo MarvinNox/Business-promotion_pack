@@ -1,0 +1,38 @@
+/* #region PRODUCTS */
+.wrapper-products {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.products-container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.products-container .enterprise-secondary-title {
+  margin-bottom: 56px;
+}
+.products-sub-container {
+  display: flex;
+  gap: 60px;
+}
+.products-box {
+  width: 543px;
+}
+.products-list {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.products-item-box {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.products-item-txt {
+  line-height: 1.75;
+}
+/* #endregion PRODUCTS */

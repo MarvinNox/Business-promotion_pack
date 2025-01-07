@@ -1,0 +1,19 @@
+.pricing-title-main {
+  margin-bottom: 32px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.pricing-sub-title {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 70px;
+}
+.wrapper-hero .pricing-sub-title {
+  margin-bottom: 16px;
+}
+.pricing-table-txt {
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 50px;
+}
